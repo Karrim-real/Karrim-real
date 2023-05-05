@@ -2,7 +2,8 @@
 - 👀 I’m interested in Php/Laravel...
 - 🌱 I’m Php/Laravel Developer
 - @whatsapp +2348131915690
-- 💞️ I’m looking to collaborate on LAMP Stack...
+- 💞️ I love developing Enterprises software for small, Medium and Large Company...
+- Simplificity is certain
 - 📫 How to reach me email:karrim4real@gmail.com
 
 <!---
